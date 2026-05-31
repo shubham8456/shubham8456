@@ -1,11 +1,12 @@
 ### 🥷 About Me:
 I'm an engineer who loves building things — from production-grade RAG pipelines to handy CLI tools that make developers' lives easier. I enjoy learning new technologies, experimenting with practical solutions, and shipping clean, reliable software.
 
+[![Portfolio](https://img.shields.io/badge/portfolio-white?style=for-the-badge)](https://profile.solidstack.fyi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rawat-shubham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shubham8456@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/rawat-hillborn)
 
 ----
 
-[![Portfolio](https://img.shields.io/badge/portfolio-white?style=for-the-badge)](https://profile.solidstack.fyi/)
+[![Auto Readme](https://img.shields.io/badge/auto_readme-white?style=for-the-badge)](https://autoreadme.solidstack.fyi/)
 [![Photo. Studio](https://img.shields.io/badge/photo_studio-white?style=for-the-badge)](https://studio.solidstack.fyi/)
 
 ----
